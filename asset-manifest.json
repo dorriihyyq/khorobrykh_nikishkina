@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/khorobrykh_nikishkina/static/css/main.383fd87e.css",
+    "main.js": "/khorobrykh_nikishkina/static/js/main.1010e846.js",
+    "static/media/Feedback2.png": "/khorobrykh_nikishkina/static/media/Feedback2.41000470d556ab979605.png",
+    "static/media/Feedback1.png": "/khorobrykh_nikishkina/static/media/Feedback1.78bbe5a2ca97a5ba5c97.png",
+    "static/media/Alexey.png": "/khorobrykh_nikishkina/static/media/Alexey.28ff8982f849972ed793.png",
+    "static/media/Project1.png": "/khorobrykh_nikishkina/static/media/Project1.2079b6545943ec04a55b.png",
+    "static/media/Project2.png": "/khorobrykh_nikishkina/static/media/Project2.f5827c33b23c7c89c45a.png",
+    "static/media/Project3.png": "/khorobrykh_nikishkina/static/media/Project3.f377d227d5f0ad7b2df8.png",
+    "static/media/Logo.png": "/khorobrykh_nikishkina/static/media/Logo.79ccdf1805e18b0bc6db.png",
+    "index.html": "/khorobrykh_nikishkina/index.html",
+    "static/media/envelope-paper.svg": "/khorobrykh_nikishkina/static/media/envelope-paper.7af3be59915f2a716d7b2c51bc904cac.svg",
+    "main.383fd87e.css.map": "/khorobrykh_nikishkina/static/css/main.383fd87e.css.map",
+    "main.1010e846.js.map": "/khorobrykh_nikishkina/static/js/main.1010e846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383fd87e.css",
+    "static/js/main.1010e846.js"
+  ]
+}
